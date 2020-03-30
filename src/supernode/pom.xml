@@ -18,7 +18,7 @@
         <spring-boot.version>1.5.13.RELEASE</spring-boot.version>
         <guava.version>19.0</guava.version>
         <commons-lang3.version>3.7</commons-lang3.version>
-        <commons-codec.version>1.10</commons-codec.version>
+        <commons-codec.version>1.13</commons-codec.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <fastjson.version>1.2.47</fastjson.version>
 
@@ -140,7 +140,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
         </plugins>
